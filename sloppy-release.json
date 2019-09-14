@@ -1,0 +1,7 @@
+{
+    "id":"<gitlab project id>",
+    "tag_name":"<tag to create release for>",
+    "file": "<file to upload, ex: 'cat.zip'>",
+    "description": "<release description>",
+    "description_file": "<optional, markdown file, ex: ReleaseInfo.md>"
+}
