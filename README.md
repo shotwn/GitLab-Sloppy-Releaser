@@ -17,6 +17,6 @@
 
 
 ## Usage
-- Edit sloppy-release.json to your liking.
+- Edit sloppy-releaser.json to your liking.
 - Start the script.
 - Follow the step. (Not steps)
