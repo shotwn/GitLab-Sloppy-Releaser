@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://gitlab.com/shotwn/gitlab-sloopy-releaser/"  >
-<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14304003/logo.png" alt="Logo" width="200" height="200" style="margin-bottom:-20px" />
+<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/14304003/logo.png" alt="Logo" width="300" height="300" style="margin-bottom:-20px" />
 </a>
 <h3 align="center">GitLab Sloppy Releaser</h3>
 
