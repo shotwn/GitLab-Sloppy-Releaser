@@ -9,7 +9,7 @@ colorama_init()
 
 
 class GitLabRelease():
-    def __init__(self, token, options='sloppy-release.json', gitlab_api_base='https://gitlab.com/api/v4', standalone=False):  # noqa: E501
+    def __init__(self, token, options='sloppy-releaser.json', gitlab_api_base='https://gitlab.com/api/v4', standalone=False):  # noqa: E501
         required_fields = ['id', 'tag_name', 'file', 'description']
         self.token = token
         self.gl_api = gitlab_api_base
@@ -108,7 +108,7 @@ class GitLabRelease():
             pprint(obj)
 
 
-def standalone_routine(options="sloppy-release.json"):
+def standalone_routine(options="sloppy-releaser.json"):
     print(Fore.GREEN)
     print("GITLAB SLOPPY RELEASER")
     print(Fore.RESET)
