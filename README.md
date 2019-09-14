@@ -4,13 +4,17 @@
 </a>
 <h3 align="center">GitLab Sloppy Releaser</h3>
 
-**Commandline tool and half-assed python module to upload GitLab releases.**
+**Commandline tool and half-assed python module for uploading GitLab releases.**
+
+*This is basically a **shortcut** for calling cUrl to upload and create a release. Also allows you to keep release description and options neatly in an MD and a JSON file.*
 
 <a href="https://gitlab.com/shotwn/gitlab-sloopy-releaser/issues">Report Bug</a>
 .
 <a href="https://gitlab.com/shotwn/gitlab-sloopy-releaser/issues">Request Feature</a>
 
 </div>
+
+
 
 ## Usage
 - Edit sloppy-release.json to your liking.
