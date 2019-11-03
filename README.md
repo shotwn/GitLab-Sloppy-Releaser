@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/shotwn/gitlab-sloopy-releaser/"  >
+<a href="https://github.com/shotwn/GitLab-Sloppy-Releaser"  >
 <img src="logo/logo.png" alt="Logo" width="300" height="300" style="margin-bottom:-20px" />
 </a>
 <h3 align="center">GitLab Sloppy Releaser</h3>
